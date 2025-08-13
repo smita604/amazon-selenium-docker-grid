@@ -1,0 +1,8 @@
+
+<suite name="AmazonGridSuite" parallel="tests" thread-count="3">
+  <test name="AmazonGridTest">
+    <classes>
+      <class name="com.example.tests.AmazonGridTest"/>
+    </classes>
+  </test>
+</suite>
